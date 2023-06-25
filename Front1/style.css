@@ -1,0 +1,161 @@
+.logo-airplane {
+    width: 39px;
+    height: 51px;
+    padding-left: 25px  ;
+}
+
+.letters-logo {
+    /* padding-right: 900px ; */
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 10px;
+}
+
+.father-div-hijo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.father-div {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   height: 100%;
+   position: relative;
+   width: 100%; 
+   z-index: 1;
+   border-bottom: 1px solid gray;
+   padding-bottom: 15px;
+  
+}
+.letters-father {
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    padding-right: 700px;
+    /* padding-inline-end: 50%;
+    width:22%; */
+    width: 500px;
+    
+}   
+.letters {
+    font-size: 12px;
+    justify-content: space-between;
+    display: flex;
+    width: 100px;
+    height: 24px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    white-space: nowrap;
+    color: #000;
+    font-size: 10px;
+    font-family: Roboto;
+}
+
+.register-button {
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 8px;
+    border: none;
+    background-color: orange;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    appearance: none;
+  }
+  
+.text1 {
+    display: flex;
+    width: 694px;
+    height: 656px;
+    flex-direction: column;
+    justify-content: center; /* Modificado */
+    flex-shrink: 0; 
+    /* Topografía */
+    color: #000;
+    text-align: center;
+    font-size: 20px;
+    font-family: Roboto;
+    font-weight: 300;
+    line-height: 187.2%;
+    background: transparent;
+    height:200px;
+}
+.div-main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column; 
+}
+.text2 {
+    display: flex;
+    width: 694px;
+    height: 656px;
+    flex-direction: column;
+    justify-content: flex-start;
+    flex-shrink: 0; 
+    /*Topography*/
+    color: #000;
+    text-align: center;
+    font-size: 20px;
+    font-family: Roboto;
+    font-weight: 300;
+    line-height: 187.2%;
+    /* . */
+    height: 200px;
+    
+}
+
+.contactanos {
+    display: flex;
+    width: 145px;
+    height: 59px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    
+    /* Typography */
+    color: var(--gray-90, #1A232F);
+    /* Platform/Title L */
+    font-size: 30px;
+    font-family: Poppins;
+    font-weight: 500;
+    line-height: 32px;
+}
+
+
+ .atencion-personalizada-text {
+    display: flex;
+width: 265px;
+height: 76px;
+flex-direction: column;
+justify-content: center;
+flex-shrink: 0;
+
+color: #000;
+text-align: center;
+font-size: 15px;
+font-family: Roboto;
+font-weight: 200;
+line-height: 187.2%;
+} 
+
+.atencion-personalizada-text {
+    display: flex;
+    width: 265px;
+    height: 76px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+
+    color: #000;
+    text-align: center;
+    font-size: 15px;
+    font-family: Roboto;
+    font-weight: 200;
+    line-height: 187.2%;
+} 
